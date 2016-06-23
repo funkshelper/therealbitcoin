@@ -7,7 +7,7 @@ While orcs using bitcoin might be of some interest on its own, it isn't that unu
 
 The codebase is mostly just Satoshi's bitcoin version 0.5.3 with a few edits to further simplify the code (removing e.g. DNS references, Windows references, checkpoints, and QT references), and to enable static linking.  It connects and syncs the block chain and as such is a fully working node, though it doesn't implement all the usual RFC commands.
 
-While the project and authorship is currently described at http://thebitcoin.foundation.  However like most orcs their diet and personal habits ensure rapid onset of degenerative nerve ailments and cancers, so I share this project with you here now for posterity - and to save you the trouble of learning their obscene dialect.  You can also currently learn more about the project on the #bitcoin-adolescents and #tardlema IRC channels.  
+The project and authorship is currently described at http://thebitcoin.foundation.  However like most orcs their diet and personal habits ensure rapid onset of degenerative nerve ailments and cancers, so I share this project with you here now for posterity - and to save you the trouble of learning their obscene dialect.  You can also currently learn more about the project on the #bitcoin-adolescents and #tardlema IRC channels.  
 
 
 
