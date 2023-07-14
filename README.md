@@ -1,7 +1,7 @@
 # therealbitcoin
 "The Real Bitcoin"
 
-During my travels through Mordor I came across a band of particulary destitute orcs.  Like many orcs who fell afoul of Sauron's heirarchy, since brutal orcish invation of the Americas, they spoke spitefully of the empire.  They made good company  and conversation despite their stubborn insistence to keep their eyelids stitched closed at all times and for their leader to demonstrate remarkable poverty and ignorance on almost any topic.  Imagine my surprise when I saw that they had cobbled their own working bitcoin node together! 
+During my travels through Mordor I came across a band of renegade orcs.  Like many orcs who fell afoul of Sauron's heirarchy, since the brutal orcish invasion of the Americas, they spoke spitefully of the empire.  They made good company and conversation despite their stubbornness and despite the tendency of their leader to demonstrate remarkable poverty and ignorance on almost any topic.  Imagine my surprise when I saw that they had cobbled their own working bitcoin node together! 
 
 Those who consider themselves agents of empire regularly confiscate and even mine public coins today.  Much of the technology of middle earth appears orcish in origin.  However this codebase was something different - and struck me as worthy of attention.  While it may be slower and clunkier than other bitcoin nodes, it is simpler and more readable.  It can be compiled in a very secure manner on a variety of hardware.  
 
